@@ -10,7 +10,6 @@ Our goals are to develop a novel class of Ecology Knowledge Guided Machine Learn
 | Paul Hanson, PhD   | Principal investigator | University of Wisconsin-Madison | Limnology, ecosystem modeling, team science |
 | Anuj Karpatne, PhD | Principal investigator | Virginia Tech                   | Computer science, machine learning          |
 | Cayelan Carey, PhD | Principal investigator | Virginia Tech                   | Limnology, ecosystem modeling, education    |
-| Information manager| Principal investigator | University of Wisconsin-Madison | Information management, data science        |
 | Chelsea Lyles, PhD | Principal investigator | Virginia Tech                   | Science and Engineering Education, Broader Impact Assessment |
 | Sylvia Lee, PhD    | Key collaborator       | Environmental Protection Agency | Limnology, phytoplankton ecology            |
 | Jim Carleton       | Key collaborator       | Environmental Protection Agency | Aquatic science and chemistry, nutrient modeling |
