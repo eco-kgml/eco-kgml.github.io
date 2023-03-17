@@ -1,4 +1,4 @@
-### [Home](eco-kgml.github.io) - [The Team](eco-kgml.github.io/team)
+### [Home](eco-kgml.github.io) - [The Team](https://eco-kgml.github.io/team)
 
 # The Eco-KGML Team
 
