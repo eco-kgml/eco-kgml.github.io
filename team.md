@@ -4,16 +4,16 @@
 
 | Team member        |Role                    | Affiliation                     | Expertise                                   |
 |--------------------|------------------------|---------------------------------|---------------------------------------------|
-| Paul Hanson, PhD   | Principal investigator | University of Wisconsin-Madison | Limnology, ecosystem modeling, team science |
-| Anuj Karpatne, PhD | Principal investigator | Virginia Tech                   | Computer science, machine learning          |
-| Cayelan Carey, PhD | Principal investigator | Virginia Tech                   | Limnology, ecosystem modeling, education    |
-| Mary Lofton, PhD   | Postdoctoral researcher| Virginia Tech                   | Limnology, education, ecological modeling   |
+| [Paul Hanson](https://hanson.limnology.wisc.edu/), PhD   | Principal investigator | University of Wisconsin-Madison | Limnology, ecosystem modeling, team science |
+| [Anuj Karpatne](https://people.cs.vt.edu/karpatne/), PhD | Principal investigator | Virginia Tech                   | Computer science, machine learning          |
+| [Cayelan Carey](https://www.biol.vt.edu/faculty/carey.html), PhD | Principal investigator | Virginia Tech                   | Limnology, ecosystem modeling, education    |
+| [Mary Lofton](https://www.maryelofton.com/), PhD   | Postdoctoral researcher| Virginia Tech                   | Limnology, education, ecological modeling   |
 | Chelsea Lyles, PhD | Project assessment     | Virginia Tech                   | Science and Engineering Education, Broader Impact Assessment |
-| Sylvia Lee, PhD    | Key collaborator       | Environmental Protection Agency | Limnology, phytoplankton ecology            |
-| Jim Carleton       | Key collaborator       | Environmental Protection Agency | Aquatic science and chemistry, nutrient modeling |
-| Robert Sabo, PhD   | Key collaborator       | Environmental Protection Agency | Ecology, GIS, nutrient use                  |
+| [Sylvia Lee](https://scholar.google.com/citations?user=279vQjYAAAAJ&hl=en), PhD    | Key collaborator       | Environmental Protection Agency | Limnology, phytoplankton ecology            |
+| [Jim Carleton](https://www.linkedin.com/in/jim-carleton-ab979210)       | Key collaborator       | Environmental Protection Agency | Aquatic science and chemistry, nutrient modeling |
+| [Robert Sabo](https://scholar.google.com/citations?user=D0FdVs8AAAAJ&hl=en), PhD   | Key collaborator       | Environmental Protection Agency | Ecology, GIS, nutrient use                  |
 | Dale Robertson, PhD| Key collaborator       | United States Geological Survey | Limnology, hydrodynamic and water quality modeling, SPARROW |
-| Keli Goodman, PhD  | Key collaborator       | National Ecological Observatory Network | Limnology |
-| Bobby Hensley, PhD | Key collaborator       | National Ecological Observatory Network | Limnology |
-| Abhilash Neog      | Graduate student       | Virginia Tech                   | Computer science, machine learning          |
-| Bennett McAfee     | Graduate student       | University of Wisconsin-Madison | Limnology                                   |
+| [Keli Goodman](https://www.neonscience.org/person/keli-goodman), PhD  | Key collaborator       | National Ecological Observatory Network | Limnology |
+| [Bobby Hensley](https://www.neonscience.org/person/bobby-hensley), PhD | Key collaborator       | National Ecological Observatory Network | Limnology |
+| [Abhilash Neog](https://in.linkedin.com/in/abhilash-neog-890b95134?original_referer=https%3A%2F%2Fwww.google.com%2F)      | Graduate student       | Virginia Tech                   | Computer science, machine learning          |
+| [Bennett McAfee](https://bennettmcafee.weebly.com/)     | Graduate student       | University of Wisconsin-Madison | Limnology                                   |
