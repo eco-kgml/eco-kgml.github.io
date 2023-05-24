@@ -8,6 +8,7 @@
 | [Anuj Karpatne](https://people.cs.vt.edu/karpatne/), PhD | Principal investigator | Virginia Tech                   | Computer science, machine learning          |
 | [Cayelan Carey](https://www.biol.vt.edu/faculty/carey.html), PhD | Principal investigator | Virginia Tech                   | Limnology, ecosystem modeling, education    |
 | [Mary Lofton](https://www.maryelofton.com/), PhD   | Postdoctoral researcher| Virginia Tech                   | Limnology, education, ecological modeling   |
+| [Robert Ladwig](https://robertladwig.github.io/), PhD     | Postdoctoral Researcher       | University of Wisconsin-Madison | Physical limnology, ecosystem modeling                                   |
 | Chelsea Lyles, PhD | Project assessment     | Virginia Tech                   | Science and Engineering Education, Broader Impact Assessment |
 | [Sylvia Lee](https://scholar.google.com/citations?user=279vQjYAAAAJ&hl=en), PhD    | Key collaborator       | Environmental Protection Agency | Limnology, phytoplankton ecology            |
 | [Jim Carleton](https://www.linkedin.com/in/jim-carleton-ab979210)       | Key collaborator       | Environmental Protection Agency | Aquatic science and chemistry, nutrient modeling |
@@ -17,3 +18,4 @@
 | [Bobby Hensley](https://www.neonscience.org/person/bobby-hensley), PhD | Key collaborator       | National Ecological Observatory Network | Limnology |
 | [Abhilash Neog](https://in.linkedin.com/in/abhilash-neog-890b95134?original_referer=https%3A%2F%2Fwww.google.com%2F)      | Graduate student       | Virginia Tech                   | Computer science, machine learning          |
 | [Bennett McAfee](https://bennettmcafee.weebly.com/)     | Graduate student       | University of Wisconsin-Madison | Limnology                                   |
+| [Arka Daw](https://people.cs.vt.edu/darka/)     | Graduate student       | Virginia Tech | Computer science, machine learning                                   |
