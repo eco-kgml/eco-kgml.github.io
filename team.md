@@ -1,4 +1,4 @@
-### [Home](eco-kgml.github.io) - [The Team](https://eco-kgml.github.io/team) - [Project Goals](https://eco-kgml.github.io/projectgoals)
+### [Home](eco-kgml.github.io) - [Project Goals](https://eco-kgml.github.io/projectgoals) - [The Team](https://eco-kgml.github.io/team)
 
 # The Eco-KGML Team
 
