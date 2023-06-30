@@ -19,3 +19,6 @@
 | [Abhilash Neog](https://in.linkedin.com/in/abhilash-neog-890b95134?original_referer=https%3A%2F%2Fwww.google.com%2F)      | Graduate student       | Virginia Tech                   | Computer science, machine learning          |
 | [Bennett McAfee](https://bennettmcafee.weebly.com/)     | Graduate student       | University of Wisconsin-Madison | Limnology                                   |
 | [Arka Daw](https://people.cs.vt.edu/darka/)     | Graduate student       | Virginia Tech | Computer science, machine learning                                   |
+| Sophia Skoglund   | Graduate student       | University of Wisconsin-Madison | Limnology, Remote Sensing                                   |
+| [Aditya Tewari](https://www.linkedin.com/in/atewari3/)   | Undergraduate student       | University of Wisconsin-Madison | Data Scientist                                   |
+| [Bani Gulati](https://www.linkedin.com/in/bani-gulati/)   | Undergraduate student       | University of Wisconsin-Madison | IT Support                                   |
