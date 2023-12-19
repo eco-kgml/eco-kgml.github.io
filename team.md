@@ -8,7 +8,7 @@
 | [Anuj Karpatne](https://people.cs.vt.edu/karpatne/), PhD | Principal investigator | Virginia Tech                   | Computer science, machine learning          |
 | [Cayelan Carey](https://www.biol.vt.edu/faculty/carey.html), PhD | Principal investigator | Virginia Tech                   | Limnology, ecosystem modeling, education    |
 | [Mary Lofton](https://www.maryelofton.com/), PhD   | Postdoctoral researcher| Virginia Tech                   | Limnology, education, ecological modeling   |
-| [Robert Ladwig](https://robertladwig.github.io/), PhD     | Key collaborator       | Aarhus University | Physical limnology, ecosystem modeling                                   |
+| [Robert Ladwig](https://www.robert-ladwig.com/), PhD     | Key collaborator       | Aarhus University | Physical limnology, ecosystem modeling                                   |
 | Chelsea Lyles, PhD | Project assessment     | Virginia Tech                   | Science and Engineering Education, Broader Impact Assessment |
 | [Sylvia Lee](https://scholar.google.com/citations?user=279vQjYAAAAJ&hl=en), PhD    | Key collaborator       | Environmental Protection Agency | Limnology, phytoplankton ecology            |
 | [Jim Carleton](https://www.linkedin.com/in/jim-carleton-ab979210)       | Key collaborator       | Environmental Protection Agency | Aquatic science and chemistry, nutrient modeling |
