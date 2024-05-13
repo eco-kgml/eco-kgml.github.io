@@ -4,7 +4,7 @@
 
 | Team member        |Role                    | Affiliation                     | Expertise                                   |
 |--------------------|------------------------|---------------------------------|---------------------------------------------|
-| [Paul Hanson](https://hanson.limnology.wisc.edu/), PhD | Principal investigator | University of Wisconsin-Madison | Limnology, ecosystem modeling, team science |
+| [Paul Hanson](https://limnology.wisc.edu/staff/hanson-paul/), PhD | Principal investigator | University of Wisconsin-Madison | Limnology, ecosystem modeling, team science |
 | [Anuj Karpatne](https://people.cs.vt.edu/karpatne/), PhD | Principal investigator | Virginia Tech | Computer science, machine learning |
 | [Cayelan Carey](https://www.biol.vt.edu/faculty/carey.html), PhD | Principal investigator | Virginia Tech | Limnology, ecosystem modeling, education |
 | [Mary Lofton](https://www.maryelofton.com/), PhD | Postdoctoral researcher | Virginia Tech | Limnology, education, ecological modeling |
