@@ -1,4 +1,4 @@
-# Eco-KGML Workshop
+# Eco-KGML Workshops
 
 ### [Home](eco-kgml.github.io) - [Project Goals](https://eco-kgml.github.io/projectgoals) - [Workshops](https://eco-kgml.github.io/workshops) - [The Team](https://eco-kgml.github.io/team) - [Documents](https://eco-kgml.github.io/documents)
 
