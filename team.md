@@ -4,7 +4,7 @@
 
 | Team member        |Role                    | Affiliation                     | Expertise                                   |
 |--------------------|------------------------|---------------------------------|---------------------------------------------|
-| [Paul Hanson](https://limnology.wisc.edu/staff/hanson-paul/), PhD | Principal investigator | University of Wisconsin-Madison | Limnology, ecosystem modeling, team science |
+| [Paul Hanson](https://limnology.wisc.edu/staff/hanson-paul/), PhD | Principal investigator | University of Wisconsin–Madison | Limnology, ecosystem modeling, team science |
 | [Anuj Karpatne](https://people.cs.vt.edu/karpatne/), PhD | Principal investigator | Virginia Tech | Computer science, machine learning |
 | [Cayelan Carey](https://www.biol.vt.edu/faculty/carey.html), PhD | Principal investigator | Virginia Tech | Limnology, ecosystem modeling, education |
 | [Mary Lofton](https://www.maryelofton.com/), PhD | Postdoctoral researcher | Virginia Tech | Limnology, education, ecological modeling |
@@ -19,6 +19,6 @@
 | [Bobby Hensley](https://www.neonscience.org/person/bobby-hensley), PhD | Key collaborator | National Ecological Observatory Network | Limnology |
 | [Abhilash Neog](https://in.linkedin.com/in/abhilash-neog-890b95134?original_referer=https%3A%2F%2Fwww.google.com%2F) | Graduate student | Virginia Tech | Computer science, machine learning |
 | Sepideh Fatemi | Graduate student | Virginia Tech | Computer science, machine learning |
-| [Bennett McAfee](https://bennettmcafee.weebly.com/) | Graduate student | University of Wisconsin-Madison | Limnology, ecosystem modeling |
-| [Sophia Skoglund](https://limnology.wisc.edu/staff/skoglund-sophia/) | Graduate student | University of Wisconsin-Madison | Limnology, remote sensing |
+| [Bennett McAfee](https://bennettmcafee.weebly.com/) | Graduate student | University of Wisconsin–Madison | Limnology, ecosystem modeling |
+| [Sophia Skoglund](https://limnology.wisc.edu/staff/skoglund-sophia/) | Graduate student | University of Wisconsin–Madison | Limnology, remote sensing |
 | [Bani Gulati](https://www.linkedin.com/in/bani-gulati/) | Undergraduate student | University of Wisconsin-Madison | IT Support |
