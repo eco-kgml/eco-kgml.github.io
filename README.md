@@ -8,6 +8,10 @@ Predicting how the environment is going to change is vital for making decisions 
   <img src="https://eco-kgml.github.io/sources/ecokgml_logo.png" width="200" height="200" />
 </p>
 
+<p align="center">
  This project is supported in part by grants from the US National Science Foundation (#2213549, #2223103)
-  
- <img src="https://new.nsf.gov/themes/custom/nsf_theme/components/images/logo/logo-desktop.svg" width="100" height="100">
+</p>
+
+<p align="center">
+ <img src="https://eco-kgml.github.io/sources/NSF_Official_logo_High_Res_1200ppi.png" width="100" height="100">
+</p>
