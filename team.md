@@ -11,13 +11,13 @@
 | [Robert Ladwig](https://www.robert-ladwig.com/), PhD | Researcher | Aarhus University | Physical limnology, ecosystem modeling |
 | [Arka Daw](https://arkadaw9.github.io/), PhD | Researcher | Oak Ridge National Laboratory | Computer science, machine learning |
 | Chelsea Lyles, PhD | Project assessment | Virginia Tech | Science and Engineering Education, Broader Impact Assessment |
-| [Bennett McAfee](https://bennettmcafee.weebly.com/) | Key collaborator | University of Wisconsin–Madison | Limnology, ecosystem modeling |
 | [Sylvia Lee](https://scholar.google.com/citations?user=279vQjYAAAAJ&hl=en), PhD | Key collaborator | Environmental Protection Agency | Limnology, phytoplankton ecology |
 | Jim Carleton | Key collaborator | Environmental Protection Agency | Aquatic science and chemistry, nutrient modeling |
 | [Robert Sabo](https://scholar.google.com/citations?user=D0FdVs8AAAAJ&hl=en), PhD | Key collaborator | Environmental Protection Agency | Ecology, GIS, nutrient use |
 | [Dale Robertson](https://www.usgs.gov/staff-profiles/dale-m-robertson), PhD| Key collaborator | United States Geological Survey | Limnology, hydrodynamic and water quality modeling, SPARROW |
 | [Keli Goodman](https://www.neonscience.org/person/keli-goodman), PhD  | Key collaborator | National Ecological Observatory Network | Limnology |
 | [Bobby Hensley](https://www.neonscience.org/person/bobby-hensley), PhD | Key collaborator | National Ecological Observatory Network | Limnology |
+| [Bennett McAfee](https://bennettmcafee.weebly.com/) | Key collaborator | University of Wisconsin–Madison | Limnology, ecosystem modeling |
 | Abhilash Neog | Graduate student | Virginia Tech | Computer science, machine learning |
 | Sepideh Fatemi | Graduate student | Virginia Tech | Computer science, machine learning |
 | [Aanish Pradhan](https://aanish-pradhan.github.io) | Graduate student | Virginia Tech | Computer science, machine learning |
