@@ -9,7 +9,7 @@ Predicting how the environment is going to change is vital for making decisions 
 </p>
 
 <p align="center">
- This project is supported in part by grants from the US National Science Foundation (#2213549, #2223103)
+ This project is supported in part by grants from the US National Science Foundation (#2213549, #2213550)
 </p>
 
 <p align="center">
