@@ -27,5 +27,5 @@ Our goals are to develop a novel class of Ecology Knowledge Guided Machine Learn
 
 ## Graduate Student Theses
 
-- McAfee, B. J. (2024). *Advancing Data and Tools for Machine Learning Modeling of Lake Water Quality* [Master’s Thesis, University of Wisconsin–Madison]. MINDS@UW. http://digital.library.wisc.edu/1793/89695
+- McAfee, B. J. (2024). *Advancing Data and Tools for Machine Learning Modeling of Lake Water Quality* [Master’s Thesis, University of Wisconsin–Madison]. MINDS@UW. <http://digital.library.wisc.edu/1793/89695>
 
