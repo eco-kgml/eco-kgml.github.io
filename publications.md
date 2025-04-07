@@ -1,8 +1,6 @@
-# Eco-KGML Project Goals
+# Eco-KGML Project Publications
 
-<p align="center">
 ### [Home](eco-kgml.github.io) - [Project Goals](https://eco-kgml.github.io/projectgoals) -  [Workshops](https://eco-kgml.github.io/workshops) - [Publications](https://eco-kgml.github.io/publications) - [The Team](https://eco-kgml.github.io/team) - [Documents](https://eco-kgml.github.io/documents)
-</p>
 
 ## Publications
 
