@@ -1,6 +1,6 @@
 # The Eco-KGML Team
 
-### [Home](eco-kgml.github.io) - [Project Goals](https://eco-kgml.github.io/projectgoals) - [Workshops](https://eco-kgml.github.io/workshops) - [The Team](https://eco-kgml.github.io/team) - [Documents](https://eco-kgml.github.io/documents)
+### [Home](eco-kgml.github.io) - [Project Goals](https://eco-kgml.github.io/projectgoals) -  [Workshops](https://eco-kgml.github.io/workshops) - [Publications](https://eco-kgml.github.io/publications) - [The Team](https://eco-kgml.github.io/team) - [Documents](https://eco-kgml.github.io/documents)
 
 | Team member        |Role                    | Affiliation                     | Expertise                                   |
 |--------------------|------------------------|---------------------------------|---------------------------------------------|
