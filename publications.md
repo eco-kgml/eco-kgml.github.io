@@ -25,3 +25,8 @@
 
 - McAfee, B. J. (2024). *Advancing Data and Tools for Machine Learning Modeling of Lake Water Quality* [Master’s Thesis, University of Wisconsin–Madison]. MINDS@UW. <http://digital.library.wisc.edu/1793/89695>
 
+## Reports
+
+- Kumar, V., Zhang, A., Karpatne, A., Rashidi, P., Wang, H., Abolhasani, M., Apte, C., Banerjee, A., Boyda, D., Calabrese, M., Chawla, N., Chellappa, R., Forsyth, D., Foster, I., Gil, Y., Gomes, C., Han, J., Hanson, P., Karypis, G., … Wang, W. (2023). *Report on 2023 NSF Sponsored Workshop on AI-Enabled Scientific Revolution*. <https://hdl.handle.net/11299/270005>
+
+
