@@ -27,6 +27,6 @@
 
 ## Reports
 
-- Kumar, V., Zhang, A., Karpatne, A., Rashidi, P., Wang, H., Abolhasani, M., Apte, C., Banerjee, A., Boyda, D., Calabrese, M., Chawla, N., Chellappa, R., Forsyth, D., Foster, I., Gil, Y., Gomes, C., Han, J., Hanson, P., Karypis, G., … Wang, W. (2023). *Report on 2023 NSF Sponsored Workshop on AI-Enabled Scientific Revolution*. <https://hdl.handle.net/11299/270005>
+- Kumar, V., Zhang, A., Karpatne, A., Rashidi, P., Wang, H., Abolhasani, M., Apte, C., Banerjee, A., Boyda, D., Calabrese, M., Chawla, N., Chellappa, R., Forsyth, D., Foster, I., Gil, Y., Gomes, C., Han, J., Hanson, P., Karypis, G., … Wang, W. (2023). *Report on 2023 NSF Sponsored Workshop on AI-Enabled Scientific Revolution*. University Digital Conservancy.  <https://hdl.handle.net/11299/270005>
 
 
