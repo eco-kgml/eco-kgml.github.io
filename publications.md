@@ -25,5 +25,3 @@
 
 - McAfee, B. J. (2024). *Advancing Data and Tools for Machine Learning Modeling of Lake Water Quality* [Master’s Thesis, University of Wisconsin–Madison]. MINDS@UW. <http://digital.library.wisc.edu/1793/89695>
 
-The publications included on this page all acknowledge the support of the U.S. National Science Foundation awards for Eco-KGML (#2213549, #2213550).
-
