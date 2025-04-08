@@ -7,6 +7,7 @@
 - Yu, R., Ladwig, R., Xu, X., Zhu, P., Hanson, P. C., Xie, Y., & Jia, X. (2024). Evolution-Based Feature Selection for Predicting Dissolved Oxygen Concentrations in Lakes. In M. Affenzeller, S. M. Winkler, A. V. Kononova, H. Trautmann, T. Tušar, P. Machado, & T. Bäck (Eds.), *Parallel Problem Solving from Nature – PPSN XVIII* (pp. 398–415). Springer Nature Switzerland. <https://doi.org/10.1007/978-3-031-70085-9_25>
 - Ladwig, R., Daw, A., Albright, E. A., Buelo, C., Karpatne, A., Meyer, M. F., Neog, A., Hanson, P. C., & Dugan, H. A. (2024). Modular Compositional Learning Improves 1D Hydrodynamic Lake Model Performance by Merging Process-Based Modeling With Deep Learning. *Journal of Advances in Modeling Earth Systems*, *16*(1), e2023MS003953. <https://doi.org/10.1029/2023MS003953>
 - Hanson, P. C., Ladwig, R., Buelo, C., Albright, E. A., Delany, A. D., & Carey, C. C. (2023). Legacy Phosphorus and Ecosystem Memory Control Future Water Quality in a Eutrophic Lake. *Journal of Geophysical Research: Biogeosciences*, *128*(12), e2023JG007620. <https://doi.org/10.1029/2023JG007620>
+- Daw, A., Bu, J., Wang, S., Perdikaris, P., & Karpatne, A. (2023). Mitigating Propagation Failures in Physics-informed Neural Networks using Retain-Resample-Release (R3) Sampling. *Proceedings of the 40th International Conference on Machine Learning*, 7264–7302. <https://proceedings.mlr.press/v202/daw23a.html>
 
 ## Manuscripts Accepted for Publication
 
@@ -19,7 +20,6 @@
 - Yu, R., Qiu, C., Ladwig, R., Hanson, P. C., Xie, Y., Li, Y., & Jia, X. (2024). *Adaptive Process-Guided Learning: An Application in Predicting Lake DO Concentrations* (arXiv:2411.12973). arXiv. <https://doi.org/10.48550/arXiv.2411.12973>
 - Hounshell, A. G., Lewis, A. S. L., Howard, D. W., Wander, H. L., Lofton, M. E., Hanson, P. C., & Carey, C. C. (2024). *Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir*. ESS Open Archive. <https://doi.org/10.22541/essoar.172926851.15664834/v1>
 - Karpatne, A., Jia, X., & Kumar, V. (2024). *Knowledge-guided Machine Learning: Current Trends and Future Prospects* (arXiv:2403.15989). arXiv. <https://doi.org/10.48550/arXiv.2403.15989>
-
 
 ## Graduate Student Theses
 
