@@ -23,6 +23,7 @@
 
 ## Graduate Student Theses
 
+- Pradhan, A. K. (2025). *Training Physics-Guided Neural Networks with Multiple Constraints: An Application in Lake Ecology Modeling* [Master’s Thesis, Virginia Tech]. VTechWorks. <https://hdl.handle.net/10919/134207>
 - McAfee, B. J. (2024). *Advancing Data and Tools for Machine Learning Modeling of Lake Water Quality* [Master’s Thesis, University of Wisconsin–Madison]. MINDS@UW. <http://digital.library.wisc.edu/1793/89695>
 
 ## Reports
