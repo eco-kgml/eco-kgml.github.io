@@ -13,8 +13,13 @@
 
 - McAfee, B. J., Pradhan, A., Neog, A., Fatemi, S., Hensley, R. T., Lofton, M. E., Karpatne, A., Carey, C. C., & Hanson, P. C. (2025). *LakeBeD-US: A benchmark dataset for lake water quality time series and vertical profiles*. Earth System Science Data Discussions. <https://doi.org/10.5194/essd-2025-27>
 
+## Peer-Reviewed Non-Archival Conference Papers
+
+- Neog, A., Sawhney, M., Mehrab, K. S., Fatemi, S., Lofton, M. E., Dutta, A., Pradhan, A., McAfee, B. J., Marchisin, E., Ladwig, R., Daw, A., Carey, C. C., Hanson, P., & Karpatne, A. (2025, June 9). *Toward Scientific Foundation Models for Aquatic Ecosystems*. 1st ICML Workshop on Foundation Models for Structured Data. <https://openreview.net/forum?id=hxMPNdhfIO>
+
 ## Preprints
 
+- Lofton, M. E., Thomas, R. Q., Olsson, F., Breef-Pilz, A., Carey, C. C., Neog, A., Fatemi, S., Karpatne, A., Howard, D., & Wander, H. (2025). *The importance of a multi-model ensemble for predicting variable ecological time series across dynamic conditions*. ESS Open Archive. <https://doi.org/10.22541/essoar.174785900.05100209/v1>
 - Neog, A., Daw, A., Khorasgani, S. F., & Karpatne, A. (2025). *Masking the Gaps: An Imputation-Free Approach to Time Series Modeling with Missing Data* (arXiv:2502.15785). arXiv. <https://doi.org/10.48550/arXiv.2502.15785>
 - Yu, R., Qiu, C., Ladwig, R., Hanson, P., Xie, Y., & Jia, X. (2025). *Physics-Guided Foundation Model for Scientific Discovery: An Application to Aquatic Science* (arXiv:2502.06084). arXiv. <https://doi.org/10.48550/arXiv.2502.06084>
 - Yu, R., Qiu, C., Ladwig, R., Hanson, P. C., Xie, Y., Li, Y., & Jia, X. (2024). *Adaptive Process-Guided Learning: An Application in Predicting Lake DO Concentrations* (arXiv:2411.12973). arXiv. <https://doi.org/10.48550/arXiv.2411.12973>
