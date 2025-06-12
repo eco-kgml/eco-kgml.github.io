@@ -20,7 +20,7 @@
 ## Preprints
 
 - Lofton, M. E., Thomas, R. Q., Olsson, F., Breef-Pilz, A., Carey, C. C., Neog, A., Fatemi, S., Karpatne, A., Howard, D., & Wander, H. (2025). *The importance of a multi-model ensemble for predicting variable ecological time series across dynamic conditions*. ESS Open Archive. <https://doi.org/10.22541/essoar.174785900.05100209/v1>
-- Neog, A., Daw, A., Khorasgani, S. F., & Karpatne, A. (2025). *Masking the Gaps: An Imputation-Free Approach to Time Series Modeling with Missing Data* (arXiv:2502.15785). arXiv. <https://doi.org/10.48550/arXiv.2502.15785>
+- Neog, A., Daw, A., Fatemi Khorasgani, S., & Karpatne, A. (2025). *Masking the Gaps: An Imputation-Free Approach to Time Series Modeling with Missing Data* (arXiv:2502.15785). arXiv. <https://doi.org/10.48550/arXiv.2502.15785>
 - Yu, R., Qiu, C., Ladwig, R., Hanson, P., Xie, Y., & Jia, X. (2025). *Physics-Guided Foundation Model for Scientific Discovery: An Application to Aquatic Science* (arXiv:2502.06084). arXiv. <https://doi.org/10.48550/arXiv.2502.06084>
 - Yu, R., Qiu, C., Ladwig, R., Hanson, P. C., Xie, Y., Li, Y., & Jia, X. (2024). *Adaptive Process-Guided Learning: An Application in Predicting Lake DO Concentrations* (arXiv:2411.12973). arXiv. <https://doi.org/10.48550/arXiv.2411.12973>
 - Hounshell, A. G., Lewis, A. S. L., Howard, D. W., Wander, H. L., Lofton, M. E., Hanson, P. C., & Carey, C. C. (2024). *Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir*. ESS Open Archive. <https://doi.org/10.22541/essoar.172926851.15664834/v1>
