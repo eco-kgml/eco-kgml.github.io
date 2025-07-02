@@ -4,14 +4,11 @@
 
 ## Publications
 
+- McAfee, B. J., Pradhan, A., Neog, A., Fatemi, S., Hensley, R. T., Lofton, M. E., Karpatne, A., Carey, C. C., & Hanson, P. C. (2025). LakeBeD-US: A benchmark dataset for lake water quality time series and vertical profiles. *Earth System Science Data*, *17*(7), 3141–3165. https://doi.org/10.5194/essd-17-3141-2025
 - Yu, R., Ladwig, R., Xu, X., Zhu, P., Hanson, P. C., Xie, Y., & Jia, X. (2024). Evolution-Based Feature Selection for Predicting Dissolved Oxygen Concentrations in Lakes. In M. Affenzeller, S. M. Winkler, A. V. Kononova, H. Trautmann, T. Tušar, P. Machado, & T. Bäck (Eds.), *Parallel Problem Solving from Nature – PPSN XVIII* (pp. 398–415). Springer Nature Switzerland. <https://doi.org/10.1007/978-3-031-70085-9_25>
 - Ladwig, R., Daw, A., Albright, E. A., Buelo, C., Karpatne, A., Meyer, M. F., Neog, A., Hanson, P. C., & Dugan, H. A. (2024). Modular Compositional Learning Improves 1D Hydrodynamic Lake Model Performance by Merging Process-Based Modeling With Deep Learning. *Journal of Advances in Modeling Earth Systems*, *16*(1), e2023MS003953. <https://doi.org/10.1029/2023MS003953>
 - Hanson, P. C., Ladwig, R., Buelo, C., Albright, E. A., Delany, A. D., & Carey, C. C. (2023). Legacy Phosphorus and Ecosystem Memory Control Future Water Quality in a Eutrophic Lake. *Journal of Geophysical Research: Biogeosciences*, *128*(12), e2023JG007620. <https://doi.org/10.1029/2023JG007620>
 - Daw, A., Bu, J., Wang, S., Perdikaris, P., & Karpatne, A. (2023). Mitigating Propagation Failures in Physics-informed Neural Networks using Retain-Resample-Release (R3) Sampling. *Proceedings of the 40th International Conference on Machine Learning*, 7264–7302. <https://proceedings.mlr.press/v202/daw23a.html>
-
-## Manuscripts Accepted for Publication
-
-- McAfee, B. J., Pradhan, A., Neog, A., Fatemi, S., Hensley, R. T., Lofton, M. E., Karpatne, A., Carey, C. C., & Hanson, P. C. (2025). *LakeBeD-US: A benchmark dataset for lake water quality time series and vertical profiles*. Earth System Science Data Discussions. <https://doi.org/10.5194/essd-2025-27>
 
 ## Peer-Reviewed Non-Archival Conference Papers
 
