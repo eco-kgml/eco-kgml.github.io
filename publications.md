@@ -18,6 +18,7 @@
 
 ## Preprints
 
+- Shukla, R., Breef-Pilz, A., Lofton, M. E., Carey, C. C., & Thomas, R. Q. (2025). *Harnessing Stability-Guided Interpretable Machine Learning for Understanding and Predicting Water Quality in Freshwater Ecosystems*. ESS Open Archive. <https://doi.org/10.22541/essoar.176245803.30250671/v1>
 - Luo, S., Yu, R., Qiu, C., Ghosh, R., Ladwig, R., Hanson, P. C., Xie, Y., & Jia, X. (2025). *Learning to Retrieve for Environmental Knowledge Discovery: An Augmentation-Adaptive Self-Supervised Learning Framework* (arXiv:2509.14563). arXiv. <https://doi.org/10.48550/arXiv.2509.14563>
 - Neog, A., Daw, A., Fatemi Khorasgani, S., Sawhney, M., Pradhan, A., Lofton, M. E., McAfee, B. J., Breef-Pilz, A., Wander, H. L., Howard, D. W., Carey, C. C., Hanson, P., & Karpatne, A. (2025). *Investigating a Model-Agnostic and Imputation-Free Approach for Irregularly-Sampled Multivariate Time-Series Modeling* (arXiv:2502.15785). arXiv. <https://doi.org/10.48550/arXiv.2502.15785>
 - Hounshell, A. G., Lewis, A. S. L., Howard, D. W., Wander, H. L., Lofton, M. E., Hanson, P. C., & Carey, C. C. (2025). *Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir*. ESS Open Archive. <https://doi.org/10.22541/essoar.172926851.15664834/v2>
@@ -32,6 +33,7 @@
 ## Reports
 
 - Kumar, V., Zhang, A., Karpatne, A., Rashidi, P., Wang, H., Abolhasani, M., Apte, C., Banerjee, A., Boyda, D., Calabrese, M., Chawla, N., Chellappa, R., Forsyth, D., Foster, I., Gil, Y., Gomes, C., Han, J., Hanson, P., Karypis, G., … Wang, W. (2023). *Report on 2023 NSF Sponsored Workshop on AI-Enabled Scientific Revolution*. University Digital Conservancy.  <https://hdl.handle.net/11299/270005>
+
 
 
 
