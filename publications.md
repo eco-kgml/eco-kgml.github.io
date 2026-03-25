@@ -4,6 +4,7 @@
 
 ## Publications
 
+- Shukla, R., Breef-Pilz, A., Lofton, M. E., Carey, C. C., & Thomas, R. Q. (2026). Harnessing Stability-Guided Interpretable Machine Learning for Understanding and Predicting Water Quality in Freshwater Ecosystems. *Journal of Geophysical Research: Biogeosciences*, *131*(3), e2025JG009545. <https://doi.org/10.1029/2025JG009545>
 - Hounshell, A. G., Lewis, A. S. L., Howard, D. W., Wander, H. L., Lofton, M. E., Hanson, P. C., & Carey, C. C. (2026). Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over 5 years of whole-ecosystem experiments in a eutrophic reservoir. *Aquatic Sciences*, *88*(1), 23. <https://doi.org/10.1007/s00027-025-01252-5>
 - Neog, A., Daw, A., Fatemi, S., Sawhney, M., Pradhan, A., Lofton, M. E., McAfee, B. J., Breef-Pilz, A., Wander, H. L., Howard, D. W., Carey, C. C., Hanson, P., & Karpatne, A. (2026). Investigating a Model-Agnostic and Imputation-Free Approach for Irregularly-Sampled Multivariate Time-Series Modeling. *Transactions on Machine Learning Research*. <https://openreview.net/forum?id=HgJ0DMVAA3>
 - McAfee, B. J., Pradhan, A., Neog, A., Fatemi, S., Hensley, R. T., Lofton, M. E., Karpatne, A., Carey, C. C., & Hanson, P. C. (2025). LakeBeD-US: A benchmark dataset for lake water quality time series and vertical profiles. *Earth System Science Data*, *17*(7), 3141–3165. <https://doi.org/10.5194/essd-17-3141-2025>
@@ -20,7 +21,6 @@
 
 ## Preprints
 
-- Shukla, R., Breef-Pilz, A., Lofton, M. E., Carey, C. C., & Thomas, R. Q. (2025). *Harnessing Stability-Guided Interpretable Machine Learning for Understanding and Predicting Water Quality in Freshwater Ecosystems*. ESS Open Archive. <https://doi.org/10.22541/essoar.176245803.30250671/v1>
 - Luo, S., Yu, R., Qiu, C., Ghosh, R., Ladwig, R., Hanson, P. C., Xie, Y., & Jia, X. (2025). *Learning to Retrieve for Environmental Knowledge Discovery: An Augmentation-Adaptive Self-Supervised Learning Framework* (arXiv:2509.14563). arXiv. <https://doi.org/10.48550/arXiv.2509.14563>
 - Lofton, M. E., Thomas, R. Q., Olsson, F., Breef-Pilz, A., Carey, C. C., Neog, A., Fatemi, S., Karpatne, A., Howard, D., & Wander, H. (2025). *The importance of a multi-model ensemble for predicting variable ecological time series across dynamic conditions*. ESS Open Archive. <https://doi.org/10.22541/essoar.174785900.05100209/v1>
 - Karpatne, A., Jia, X., & Kumar, V. (2024). *Knowledge-guided Machine Learning: Current Trends and Future Prospects* (arXiv:2403.15989). arXiv. <https://doi.org/10.48550/arXiv.2403.15989>
