@@ -4,6 +4,7 @@
 
 ## Publications
 
+- Neog, A., Fatemi, S., Sawhney, M., Mehrab, K. S., Pradhan, A., McAfee, B. J., Marchisin, E., Daw, A., Ladwig, R., Carey, C. C., Hanson, P. C., & Karpatne, A. (2026). LakeFM: Toward a Foundation Model for Aquatic Ecosystems Using Irregular Multivariate Multi-depth Time Series Data. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2*, *KDD ’26*, 11681–11692. <https://doi.org/10.1145/3770855.3819024>
 - Shukla, R., Breef-Pilz, A., Lofton, M. E., Carey, C. C., & Thomas, R. Q. (2026). Harnessing Stability-Guided Interpretable Machine Learning for Understanding and Predicting Water Quality in Freshwater Ecosystems. *Journal of Geophysical Research: Biogeosciences*, *131*(3), e2025JG009545. <https://doi.org/10.1029/2025JG009545>
 - Luo, S., Qiu, C., Yu, R., Xie, Y., & Jia, X. (2026). GREAT: Generalizable Representation Enhancement via Auxiliary Transformations for Zero-Shot Environmental Prediction. *Proceedings of the AAAI Conference on Artificial Intelligence*, *40*(46), 38998–39006. <https://doi.org/10.1609/aaai.v40i46.41246>
 - Karpatne, A., Jia, X., & Kumar, V. (2026). Knowledge-Guided Machine Learning: A Paradigm Shift in AI for Science. *Proceedings of the AAAI Conference on Artificial Intelligence*, *40*(46), 39715–39717. <https://doi.org/10.1609/aaai.v40i46.41325>
@@ -19,7 +20,7 @@
 
 ##  Non-Archival Peer-Reviewed Papers
 
-- Neog, A., Sawhney, M., Mehrab, K. S., Fatemi, S., Lofton, M. E., Dutta, A., Pradhan, A., McAfee, B. J., Marchisin, E., Ladwig, R., Daw, A., Carey, C. C., Hanson, P., & Karpatne, A. (2025, June 9). Toward Scientific Foundation Models for Aquatic Ecosystems. *1st ICML Workshop on Foundation Models for Structured Data*. <https://openreview.net/forum?id=hxMPNdhfIO>
+- Neog, A., Sawhney, M., Mehrab, K. S., Fatemi, S., Lofton, M. E., Dutta, A., Pradhan, A., McAfee, B. J., Marchisin, E., Ladwig, R., Daw, A., Carey, C. C., Hanson, P., & Karpatne, A. (2025, June 9). Toward Scientific Foundation Models for Aquatic Ecosystems. *Proceedings of the 1st ICML Workshop on Foundation Models for Structured Data*. <https://openreview.net/forum?id=hxMPNdhfIO>
 
 ## Preprints
 
