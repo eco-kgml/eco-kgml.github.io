@@ -4,6 +4,7 @@
 
 ## Publications
 
+- Shukla, R., Carey, C. C., Breef-Pilz, A., & Thomas, R. Q. (2026). Advancing Near-Term Water Quality Forecasting with Explainable Machine Learning and Probabilistic Uncertainty Quantification. *ACS ES&T Water*. <https://doi.org/10.1021/acsestwater.6c00757>
 - Neog, A., Fatemi, S., Sawhney, M., Mehrab, K. S., Pradhan, A., McAfee, B. J., Marchisin, E., Daw, A., Ladwig, R., Carey, C. C., Hanson, P. C., & Karpatne, A. (2026). LakeFM: Toward a Foundation Model for Aquatic Ecosystems Using Irregular Multivariate Multi-depth Time Series Data. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2*, *KDD ’26*, 11681–11692. <https://doi.org/10.1145/3770855.3819024>
 - Shukla, R., Breef-Pilz, A., Lofton, M. E., Carey, C. C., & Thomas, R. Q. (2026). Harnessing Stability-Guided Interpretable Machine Learning for Understanding and Predicting Water Quality in Freshwater Ecosystems. *Journal of Geophysical Research: Biogeosciences*, *131*(3), e2025JG009545. <https://doi.org/10.1029/2025JG009545>
 - Luo, S., Qiu, C., Yu, R., Xie, Y., & Jia, X. (2026). GREAT: Generalizable Representation Enhancement via Auxiliary Transformations for Zero-Shot Environmental Prediction. *Proceedings of the AAAI Conference on Artificial Intelligence*, *40*(46), 38998–39006. <https://doi.org/10.1609/aaai.v40i46.41246>
@@ -25,7 +26,6 @@
 ## Preprints
 
 - Ladwig, R., Fatemi, S., Jia, X., Kumar, V., Marchisin, E., McAfee, B. J., Neog, A., Skoglund, S., Shukla, R., Yu, R., Carey, C. C., Karpatne, A., & Hanson, P. C. (2026). *Ecological Knowledge-Guided Machine Learning: Integrating Limnology and Computer Science to transform our Understanding of Water Quality*. ESS Open Archive. <https://doi.org/10.22541/essoar.15003783/v1>
-- Shukla, R., Carey, C. C., Pilz, A. B., & Thomas, R. Q. (2026). *Advancing Near-Term Water Quality Forecasting with Explainable Machine Learning and Probabilistic Uncertainty Quantification*. ESS Open Archive. <https://doi.org/10.22541/essoar.15002809/v2>
 - Luo, S., Yu, R., Qiu, C., Ghosh, R., Ladwig, R., Hanson, P. C., Xie, Y., & Jia, X. (2025). *Learning to Retrieve for Environmental Knowledge Discovery: An Augmentation-Adaptive Self-Supervised Learning Framework* (arXiv:2509.14563). arXiv. <https://doi.org/10.48550/arXiv.2509.14563>
 - Lofton, M. E., Thomas, R. Q., Olsson, F., Breef-Pilz, A., Carey, C. C., Neog, A., Fatemi, S., Karpatne, A., Howard, D., & Wander, H. (2025). *The importance of a multi-model ensemble for predicting variable ecological time series across dynamic conditions*. ESS Open Archive. <https://doi.org/10.22541/essoar.174785900.05100209/v1>
 - Karpatne, A., Jia, X., & Kumar, V. (2024). *Knowledge-guided Machine Learning: Current Trends and Future Prospects* (arXiv:2403.15989). arXiv. <https://doi.org/10.48550/arXiv.2403.15989>
